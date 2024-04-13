@@ -160,4 +160,6 @@ cython_debug/
 #.idea/
 
 data/large_data/
+data/rag_demo
 notes/data/
+models
